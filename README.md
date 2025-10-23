@@ -15,12 +15,12 @@
 <hr />
 
 <h2>The Challenge</h2>
-<p>Creating a professional-grade dashboard using only free tools, while ensuring clarity, visual impact, and portfolio readiness. The challenge included presenting complex HR data in a digestible format and simulating a hosted experience without access to Power BI Service or Pro features.</p>
+<p>Effectively visualizing complex HR attrition data—such as rates by age, education, salary, and job role—while maintaining clarity and delivering actionable insights using only the free version of Power BI Desktop.</p>
 
 <hr />
 
 <h2>The Solution</h2>
-<p>Designed a multi-page Power BI dashboard with a custom Welcome screen, clean layout, and intuitive navigation. Exported the report to PDF and high-resolution images for GitHub and portfolio sharing. The dashboard highlights key attrition patterns and demographic insights, enabling HR teams to identify retention risks and optimize workforce strategies.</p>
+<p>Developed custom DAX measures and interactive visuals to dynamically break down attrition, gender, and salary segmentation; exported results as portfolio-ready PDFs and images, all within a cohesive multi-page dashboard experience.</p>
 
 <hr />
 
